@@ -15,8 +15,8 @@ Contains all the documents for S631 Energy Grid North
 │       Case study 7 - DevSecOps.docx
 │       Case Study 8 - GDPR and Data Complexities.docx
 │       Case study 9 Observability and Performance (Software).docx
-│
 ├───CI-CD Pipeline
+│       CI_CD Pipeline.docx
 ├───Diagrams
 ├───Presentations
 │       Hackathon Presentation.pptx
@@ -24,30 +24,24 @@ Contains all the documents for S631 Energy Grid North
 │       Oplevering Sprint 2.pptx
 │       Oplevering Sprint 3.pptx
 │       Oplevering Sprint 4.pptx
-│
 ├───Release Notes
 │   ├───Sprint 0
 │   │       Release Notes Sprint 0.docx
-│   │
 │   ├───Sprint 1
 │   │       Copy of Release Notes Sprint 1.docx
-│   │
 │   ├───Sprint 2
 │   │       Release Notes Sprint 2.docx
-│   │
 │   ├───Sprint 3
 │   │       Release Notes Sprint 3.docx
-│   │
 │   └───Sprint 4
 │           Release Notes Sprint 4.docx
-│
 ├───Requirements
 │       Definition of Done.docx
 │       ProjectPlan.docx
 │       Repository Conventions.docx
 │       Requirements.docx
 │       Research Plan.docx
-│
+│       Scenarios.docx
 ├───Research
 │       Cost and Load Balancing.docx
 │       Docker ~ Deployment for Cloud Application.docx
@@ -55,7 +49,6 @@ Contains all the documents for S631 Energy Grid North
 │       Gas energy.docx
 │       Solar energy.docx
 │       Wind energy.docx
-│
 ├───TICT
 └───Video Demos
         Algemeen - Discord 2021-06-03 11-03-41_Trim.mp4
@@ -63,8 +56,6 @@ Contains all the documents for S631 Energy Grid North
 ```
 
 ## Attention required
-- Scenarios
-- Architecture Diagrams
 - Release notes Sprint 5
 - TICT
 - Presentation 5
