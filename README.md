@@ -17,3 +17,5 @@ Contains all the documents for S631 Energy Grid North
 ## Attention required
 - Scenarios
 - Architecture Diagrams
+- Release notes Sprint 5
+- TICT
