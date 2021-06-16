@@ -4,5 +4,11 @@ Contains all the documents for S631 Energy Grid North
 ---
 
 ## Contents
-[1] Case studies
-[2] Research
+- Case studies
+- Research
+- TICT
+- Architecture Diagrams
+- Presentations
+- Requirements Documents
+- CI/CD Pipeline Description
+- Demo videos
