@@ -57,5 +57,4 @@ Contains all the documents for S631 Energy Grid North
 
 ## Attention required
 - Release notes Sprint 5
-- TICT
 - Presentation 5
