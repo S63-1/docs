@@ -1,18 +1,23 @@
 # Docs
 Contains all the documents for S631 Energy Grid North
 
----
-
 ## Contents
-- Case studies
-- Research
-- TICT
-- Architecture Diagrams
-- Presentations
-- Requirements Documents
-- CI/CD Pipeline Description
-- Demo videos
-
+```bash
+├───Case Studies
+├───CI-CD Pipeline
+├───Diagrams
+├───Presentations
+├───Release Notes
+│   ├───Sprint 0
+│   ├───Sprint 1
+│   ├───Sprint 2
+│   ├───Sprint 3
+│   └───Sprint 4
+├───Requirements
+├───Research
+├───TICT
+└───Video Demos
+```
 
 ## Attention required
 - Scenarios
