@@ -12,3 +12,8 @@ Contains all the documents for S631 Energy Grid North
 - Requirements Documents
 - CI/CD Pipeline Description
 - Demo videos
+
+
+## Attention required
+- Scenarios
+- Architecture Diagrams
